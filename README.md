@@ -1,1 +1,3 @@
-# 30_days_python
+# 30 Days of Python
+
+Thanks for checking out my work!
